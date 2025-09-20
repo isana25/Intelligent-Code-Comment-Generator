@@ -181,28 +181,6 @@ class BinarySearchTree:
 - Human-in-the-loop quality validation
 - Comparative analysis with state-of-the-art models
 
-## 🎓 Academic Applications
-
-This project is ideal for:
-- **Computer Science Research**: Demonstrates advanced NLP and program analysis techniques
-- **Software Engineering Courses**: Shows practical application of AI in development tools
-- **Machine Learning Projects**: Exhibits real-world LLM fine-tuning and evaluation
-- **Academic Presentations**: Professional interface suitable for conference demos
-
-## 🔬 Research Contributions
-
-1. **Novel Architecture**: Hybrid approach combining program analysis with LLM generation
-2. **Comprehensive Evaluation**: Multi-metric assessment framework for code comment quality
-3. **Performance Benchmarking**: Systematic comparison with existing state-of-the-art models
-4. **Interactive Demonstration**: Web-based platform for real-time model evaluation
-
-## 📊 Performance Metrics
-
-- **Generation Accuracy**: 94.2% BLEU-4 score
-- **Processing Speed**: 1.8 seconds average per function
-- **Code Coverage**: 96.7% of code elements documented
-- **User Satisfaction**: 4.6/5.0 average quality rating
-
 ## 🛠️ Development
 
 ### Project Structure
@@ -226,33 +204,6 @@ intelligent-code-comment-generator/
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **OpenAI GPT-4** for advanced language model capabilities
-- **CodeSearchNet** dataset for training data inspiration
-- **Hugging Face Transformers** for model comparison baselines
-- **React & Tailwind CSS** communities for excellent development tools
-
-## 📧 Contact
-
-**Project Author**: [Your Name]
-- Email: your.email@university.edu
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
 
 ⭐ **Star this repository if you found it helpful for your research or coursework!**
 
@@ -264,7 +215,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced ML model fine-tuning interface
 - [ ] API endpoint for programmatic access
 - [ ] Mobile application for on-the-go code review
-
----
-
-*Built with ❤️ for advancing AI-powered software development tools*
