@@ -234,25 +234,6 @@ intelligent-code-comment-generator/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **OpenAI GPT-4** for advanced language model capabilities
-- **CodeSearchNet** dataset for training data inspiration
-- **Hugging Face Transformers** for model comparison baselines
-- **React & Tailwind CSS** communities for excellent development tools
-
-## 📧 Contact
-
-**Project Author**: [Your Name]
-- Email: your.email@university.edu
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
 
 ⭐ **Star this repository if you found it helpful for your research or coursework!**
 
